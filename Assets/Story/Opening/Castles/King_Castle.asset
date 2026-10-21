@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d31f34889124ef47899cd186c2f33c7, type: 3}
+  m_Name: King_Castle
+  m_EditorClassIdentifier: Assembly-CSharp::CastleData
+  castleName: The King's Castle
+  npcAesthetic: 2
+  npcPortrait: {fileID: 21300000, guid: 7e9ad484dab83044e90636ad84d6f073, type: 3}
+  goodEnding: {fileID: 11400000, guid: b7d1935ff2f061049af1c31d105c6c4a, type: 2}
+  mixedEnding: {fileID: 11400000, guid: add34cfc861cafa4d9b90f1ae60634f8, type: 2}
+  badEnding: {fileID: 11400000, guid: cf06bbfbfd8f7874581fa1dd65cab510, type: 2}
+  goodRatio: 0.9
+  mixedRatio: 0.4
