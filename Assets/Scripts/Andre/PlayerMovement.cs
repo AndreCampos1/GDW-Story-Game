@@ -5,6 +5,7 @@ using System.Collections;
 public class PlayerMovement : MonoBehaviour
 {
     private Rigidbody rb;
+
     public int speed;
 
     public Vector3 Wdir = new Vector3(1,0,0);
