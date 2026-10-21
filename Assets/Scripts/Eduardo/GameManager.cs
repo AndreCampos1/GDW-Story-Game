@@ -14,7 +14,7 @@ public class GameManager : MonoBehaviour
     private DialogueController dialogueUI;
 
 
-    void Awake()
+    void Start()
     {
         if (Instance == null) Instance = this;
         else Destroy(gameObject);
@@ -80,6 +80,7 @@ public class GameManager : MonoBehaviour
         {
             StopAllCoroutines();
             dialogueUI.SetDialogueText(currentDialogue.dialogueLines[dialogueIndex]);
+            dialogueUI.SetSpeaking(false);
             isTyping = false;
             return;
         }
@@ -111,6 +112,7 @@ public class GameManager : MonoBehaviour
     {
         isTyping = true;
         dialogueUI.SetDialogueText("");
+        dialogueUI.SetSpeaking(true);
 
         string full = currentDialogue.dialogueLines[dialogueIndex];
 
@@ -120,6 +122,7 @@ public class GameManager : MonoBehaviour
             yield return new WaitForSeconds(currentDialogue.typingSpeed);
         }
 
+        dialogueUI.SetSpeaking(false);
         isTyping = false;
 
         if (currentDialogue.autoProgressLines.Length > dialogueIndex && currentDialogue.autoProgressLines[dialogueIndex])
@@ -160,6 +163,7 @@ public class GameManager : MonoBehaviour
         currentDialogue = null;
         dialogueUI.SetDialogueText("");
         dialogueUI.ClearChoices();
+        dialogueUI.SetSpeaking(false);
         dialogueUI.ShowDialogueUI(false);
     }
 }

@@ -39,7 +39,12 @@ public class Furniture : MonoBehaviour
     {
         if (isDone && !isDialogueActive) return;
 
-        if(isDialogueActive) NextLine();
+        if(isDialogueActive) 
+        {
+            if(currentDialogue == null) return;
+            NextLine();
+        }
+        
         else StartSelection();
     }
 
@@ -95,6 +100,7 @@ public class Furniture : MonoBehaviour
             //Skip typing animation and show the full line(Player Input)
             StopAllCoroutines();
             dialogueUI.SetDialogueText(currentDialogue.dialogueLines[dialogueIndex]);
+            dialogueUI.SetSpeaking(false);
             isTyping = false;
             return;
         }
@@ -130,6 +136,7 @@ public class Furniture : MonoBehaviour
     {
         isTyping = true;
         dialogueUI.SetDialogueText("");
+        dialogueUI.SetSpeaking(true);
 
         string full = currentDialogue.dialogueLines[dialogueIndex];
 
@@ -139,6 +146,7 @@ public class Furniture : MonoBehaviour
             yield return new WaitForSeconds(currentDialogue.typingSpeed);
         }
 
+        dialogueUI.SetSpeaking(false);
         isTyping = false;
 
         if (currentDialogue.autoProgressLines.Length > dialogueIndex && currentDialogue.autoProgressLines[dialogueIndex])
@@ -179,6 +187,7 @@ public class Furniture : MonoBehaviour
         currentDialogue = null;
         dialogueUI.SetDialogueText("");
         dialogueUI.ClearChoices();
+        dialogueUI.SetSpeaking(false);
         dialogueUI.ShowDialogueUI(false);
     }
 }

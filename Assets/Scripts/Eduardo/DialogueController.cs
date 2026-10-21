@@ -14,11 +14,18 @@ public class DialogueController : MonoBehaviour
     public Transform choiceContainer;
     public GameObject choiceButtonPrefab;
 
+    [Header("Portrait Animation")]
+    public Animator portraitAnimator;
+    public string speakingBoolParam = "IsSpeaking";
+    public string talkingTriggerParam = "";
+
     void Awake()
     {
         if(Instance == null) Instance = this;
         else Destroy(gameObject);//Make sure only one instance of the controller exists
     }
+
+    void Start() {ShowDialogueUI(false);}
 
     public void ShowDialogueUI(bool show)
     {
@@ -37,9 +44,16 @@ public class DialogueController : MonoBehaviour
         dialogueText.text = text;
     }
 
+    public void SetSpeaking(bool speaking)
+    {
+        if(portraitAnimator == null) return;
+        if(!string.IsNullOrEmpty(speakingBoolParam)) portraitAnimator.SetBool(speakingBoolParam, speaking);
+        if(speaking && !string.IsNullOrEmpty(talkingTriggerParam)) portraitAnimator.SetTrigger(talkingTriggerParam);
+    }
+
     public void ClearChoices()
     {
-        for(int i = choiceContainer.childCount - 1; i >= 0; i++) Destroy(choiceContainer.GetChild(i).gameObject);
+        for(int i = choiceContainer.childCount - 1; i >= 0; i--) Destroy(choiceContainer.GetChild(i).gameObject);
     }
 
     public void CreateChoiceButton(string choiceText, UnityEngine.Events.UnityAction onClick)
