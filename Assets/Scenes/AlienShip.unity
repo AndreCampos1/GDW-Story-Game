@@ -969,7 +969,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -1.0332785
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalPosition.y
@@ -977,11 +977,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1.1940441
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 1
+      value: 0.9568909
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalRotation.x
@@ -989,7 +989,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalRotation.y
-      value: -0
+      value: -0.2904477
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalRotation.z
@@ -1001,7 +1001,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
+      value: -33.77
       objectReference: {fileID: 0}
     - target: {fileID: 1493562038161893036, guid: ee5dacd2fe1e2314db80bdd6d792c6ff, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
@@ -1689,6 +1689,108 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 9170080327651916371, guid: e55cfede03ab3a849af6acbfffe55c7f, type: 3}
   m_PrefabInstance: {fileID: 5921132228253138375}
   m_PrefabAsset: {fileID: 0}
+--- !u!1001 &394009275
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1668013954}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.85
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.5399997
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 6.89192
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.27092642
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.9626001
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 211.439
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      propertyPath: m_Name
+      value: Drawer
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 394009278}
+  m_SourcePrefab: {fileID: 100100000, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+--- !u!4 &394009276 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+  m_PrefabInstance: {fileID: 394009275}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &394009277 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: c9ea90e181df9374aadb274f3e6b98e0, type: 3}
+  m_PrefabInstance: {fileID: 394009275}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &394009278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 394009277}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac971860d0c3464db924c3f1659ed1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureSpot
+  options:
+  - label: Royal Cabinet
+    prefab: {fileID: 919132149155446097, guid: 2e9c2509ce69873468acbba527bd9cd2, type: 3}
+    aesthetic: 0
+  - label: Evil Cabinet
+    prefab: {fileID: 919132149155446097, guid: 0eac6eb2e452b324da882607f68266f8, type: 3}
+    aesthetic: 1
+  - label: Alien Cabinet
+    prefab: {fileID: 919132149155446097, guid: 40bca08f71d97db4eafb454fcd9fcf88, type: 3}
+    aesthetic: 2
+  idleColor: {r: 1, g: 1, b: 1, a: 1}
+  focusColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  outlineScale: 1.01
+  edgeAngle: 30
+  labelHeight: 0.3
+  labelCharacterSize: 0.02
+  promptText: Press E to interact
+  emptyText: Empty
+  hideOwnMeshWhenModelShown: 1
+  useSpotScale: 0
 --- !u!1 &416065128
 GameObject:
   m_ObjectHideFlags: 0
@@ -3048,6 +3150,108 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 40
   m_TargetDisplay: 0
+--- !u!1001 &606503094
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1668013954}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -5.58
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.2767792
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.11
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 180
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      propertyPath: m_Name
+      value: Throne
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 606503097}
+  m_SourcePrefab: {fileID: 100100000, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+--- !u!4 &606503095 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+  m_PrefabInstance: {fileID: 606503094}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &606503096 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+  m_PrefabInstance: {fileID: 606503094}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &606503097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 606503096}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac971860d0c3464db924c3f1659ed1a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FurnitureSpot
+  options:
+  - label: Royal Throne
+    prefab: {fileID: 919132149155446097, guid: f8508d6fe8d9eeb4db9ad563a08d7c9f, type: 3}
+    aesthetic: 0
+  - label: Evil Throne
+    prefab: {fileID: 919132149155446097, guid: 0d9f511c7ecd3ac48b434f014b7b0825, type: 3}
+    aesthetic: 1
+  - label: Alien Throne
+    prefab: {fileID: 919132149155446097, guid: d552bbe568530e44ea71708c4c6a20f0, type: 3}
+    aesthetic: 2
+  idleColor: {r: 1, g: 1, b: 1, a: 1}
+  focusColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  outlineScale: 1.01
+  edgeAngle: 30
+  labelHeight: 0.3
+  labelCharacterSize: 0.02
+  promptText: Press E to interact
+  emptyText: Empty
+  hideOwnMeshWhenModelShown: 1
+  useSpotScale: 0
 --- !u!1 &625025083
 GameObject:
   m_ObjectHideFlags: 0
@@ -3135,7 +3339,7 @@ MonoBehaviour:
   m_spriteAsset: {fileID: 0}
   m_tintAllSprites: 0
   m_StyleSheet: {fileID: 0}
-  m_TextStyleHashCode: 0
+  m_TextStyleHashCode: -1183493901
   m_overrideHtmlColors: 0
   m_faceColor:
     serializedVersion: 2
@@ -4968,108 +5172,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1038537619}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &1058669947
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1668013954}
-    m_Modifications:
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -5.2893486
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.6884992
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 4.6467576
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8338171386679753313, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      propertyPath: m_Name
-      value: RoyalCabinet
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 8338171386679753313, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 1058669949}
-  m_SourcePrefab: {fileID: 100100000, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
---- !u!1 &1058669948 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 8338171386679753313, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-  m_PrefabInstance: {fileID: 1058669947}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &1058669949
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1058669948}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 2ac971860d0c3464db924c3f1659ed1a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::FurnitureSpot
-  options:
-  - label: Royal Cabinet
-    prefab: {fileID: 8338171386679753313, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-    aesthetic: 0
-  - label: Gothic Cabinet
-    prefab: {fileID: 147887785642094299, guid: 86d036544c12e784fad2c3e4aee4422d, type: 3}
-    aesthetic: 1
-  - label: Alien Cabinet
-    prefab: {fileID: 5060238573744967858, guid: 4b5ff52248709784ca1a73d851eb355f, type: 3}
-    aesthetic: 2
-  idleColor: {r: 1, g: 1, b: 1, a: 1}
-  focusColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
-  outlineScale: 1.01
-  edgeAngle: 30
-  labelHeight: 0.3
-  labelCharacterSize: 0.02
-  promptText: Press E to interact
-  emptyText: Empty
-  hideOwnMeshWhenModelShown: 1
-  useSpotScale: 0
---- !u!4 &1058669950 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 5825274326268437098, guid: 55073830bf5ec0146b134251f2566a08, type: 3}
-  m_PrefabInstance: {fileID: 1058669947}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1158924435
 GameObject:
   m_ObjectHideFlags: 0
@@ -7058,13 +7160,14 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 222000622}
-  - {fileID: 1058669950}
   - {fileID: 1540154729}
   - {fileID: 1879604981}
   - {fileID: 2006194133}
   - {fileID: 1808997403}
   - {fileID: 1454434557}
   - {fileID: 668288804}
+  - {fileID: 606503095}
+  - {fileID: 394009276}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1684012193
@@ -7976,7 +8079,7 @@ Canvas:
   m_SortingBucketNormalizedSize: 0
   m_VertexColorAlwaysGammaSpace: 0
   m_UseReflectionProbes: 0
-  m_AdditionalShaderChannelsFlag: 0
+  m_AdditionalShaderChannelsFlag: 25
   m_UpdateRectTransformForStandalone: 0
   m_SortingLayerID: 0
   m_SortingOrder: 50
