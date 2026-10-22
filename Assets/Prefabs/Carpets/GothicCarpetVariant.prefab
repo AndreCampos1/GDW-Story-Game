@@ -18,7 +18,7 @@ PrefabInstance:
       objectReference: {fileID: 2100000, guid: 53e70ac934f421d499e6e35c232f1e67, type: 2}
     - target: {fileID: 3107692798103972819, guid: d0a1c85b873d7df4fae933695263e566, type: 3}
       propertyPath: m_Name
-      value: RoyalCarpet Variant
+      value: GothicCarpetVariant
       objectReference: {fileID: 0}
     - target: {fileID: 6143108305625255709, guid: d0a1c85b873d7df4fae933695263e566, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
