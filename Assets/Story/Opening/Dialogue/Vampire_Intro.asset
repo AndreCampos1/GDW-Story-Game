@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Vampire_Intro
   m_EditorClassIdentifier: Assembly-CSharp::EventDialogue
   npcName: Vampire
-  npcPortrait: {fileID: 21300000, guid: 35c47d4c77b69014c8fab7d368d0bc35, type: 3}
+  npcPortrait: {fileID: -2904457877120967500, guid: d8be30ce5cf673942a1b7e3d04b7fc01, type: 3}
   dialogueLines:
   - Good evening. Please, come in. No, the windows stay boarded.
   - I want brooding, but tasteful. Velvet. Always velvet.

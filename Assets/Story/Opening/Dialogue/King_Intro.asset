@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: King_Intro
   m_EditorClassIdentifier: Assembly-CSharp::EventDialogue
   npcName: King
-  npcPortrait: {fileID: 21300000, guid: 7e9ad484dab83044e90636ad84d6f073, type: 3}
+  npcPortrait: {fileID: -4821530343430527414, guid: 7d8e245a83fe72c4085b3b7aa118a339, type: 3}
   dialogueLines:
   - Ah, the interior designer. My throne room is a disgrace, and my advisors are too afraid to say so.
   - I will pay handsomely. Gold is no object. Your head, however, is entirely negotiable.

@@ -178,6 +178,8 @@ MonoBehaviour:
   labelCharacterSize: 0.02
   promptText: Press E to interact
   emptyText: Empty
+  hideOwnMeshWhenModelShown: 1
+  useSpotScale: 0
 --- !u!64 &1682044030676149178
 MeshCollider:
   m_ObjectHideFlags: 0
