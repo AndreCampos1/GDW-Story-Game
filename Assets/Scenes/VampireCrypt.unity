@@ -919,6 +919,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &285265468
 GameObject:
   m_ObjectHideFlags: 0
@@ -1463,6 +1465,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 0}
+  cycleSound2: {fileID: 0}
 --- !u!1 &460603204
 GameObject:
   m_ObjectHideFlags: 0
@@ -1868,6 +1872,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &606444217
 GameObject:
   m_ObjectHideFlags: 0
@@ -3209,6 +3215,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!4 &907655670 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ab389868a09c0fb4580b6e2dfd841959, type: 3}
@@ -4182,6 +4190,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1331777831
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4284,6 +4294,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &1370295872
 GameObject:
   m_ObjectHideFlags: 0
@@ -4525,6 +4537,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &1442250721
 GameObject:
   m_ObjectHideFlags: 0
@@ -6345,6 +6359,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &1790056122
 GameObject:
   m_ObjectHideFlags: 0
@@ -7443,6 +7459,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!4 &1923226689 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ca5c614689705e0468a7b6d0df6bd624, type: 3}
@@ -8263,6 +8281,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!4 &2044645009 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: ca5c614689705e0468a7b6d0df6bd624, type: 3}
@@ -8839,6 +8859,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &2101917657
 GameObject:
   m_ObjectHideFlags: 0

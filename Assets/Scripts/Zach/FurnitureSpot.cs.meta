@@ -1,2 +1,14 @@
 fileFormatVersion: 2
 guid: 2ac971860d0c3464db924c3f1659ed1a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - soundPlayer: {instanceID: 0}
+  - cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  - cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

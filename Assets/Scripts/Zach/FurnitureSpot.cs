@@ -28,6 +28,9 @@ public class FurnitureSpot : MonoBehaviour
     public bool hideOwnMeshWhenModelShown = true;
     public bool useSpotScale = false;
 
+    public AudioClip cycleSound1;
+    public AudioClip cycleSound2;
+
     private class ModelData
     {
         public Mesh mesh;
@@ -196,6 +199,8 @@ public class FurnitureSpot : MonoBehaviour
 
         index = (index + 1) % options.Length;
         Refresh();
+        if (cycleSound1 != null) AudioSource.PlayClipAtPoint(cycleSound1, transform.position);
+        if (cycleSound2 != null) AudioSource.PlayClipAtPoint(cycleSound2, transform.position);
 
         if (area != null) area.Evaluate();
     }

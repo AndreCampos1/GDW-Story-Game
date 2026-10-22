@@ -743,6 +743,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &71290559
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2841,6 +2843,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!64 &330232927
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3309,6 +3313,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &410011801
 GameObject:
   m_ObjectHideFlags: 0
@@ -4041,6 +4047,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!64 &544403004
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -6109,6 +6117,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &776485847
 GameObject:
   m_ObjectHideFlags: 0
@@ -6254,6 +6264,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!64 &778387188
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -7878,6 +7890,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!64 &931732591
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -8573,6 +8587,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &975438136
 GameObject:
   m_ObjectHideFlags: 0
@@ -9440,6 +9456,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1090031386
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10394,6 +10412,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1194864611
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10499,6 +10519,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &1200172752
 GameObject:
   m_ObjectHideFlags: 0
@@ -12262,6 +12284,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1347399407
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -12657,6 +12681,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!64 &1412410879
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -16605,6 +16631,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1819377018
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16715,6 +16743,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1853714597
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16899,6 +16929,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &1856865503
 GameObject:
   m_ObjectHideFlags: 0
@@ -17215,6 +17247,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1 &1915692504
 GameObject:
   m_ObjectHideFlags: 0
@@ -17759,6 +17793,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!1001 &1990100755
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18310,6 +18346,8 @@ MonoBehaviour:
   emptyText: Empty
   hideOwnMeshWhenModelShown: 1
   useSpotScale: 0
+  cycleSound1: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+  cycleSound2: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
 --- !u!64 &2026152114
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -19317,6 +19355,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7412555605099382647, guid: d0a1c85b873d7df4fae933695263e566, type: 3}
+      propertyPath: cycleSound1
+      value: 
+      objectReference: {fileID: 8300000, guid: 973faf5ff9428f544a35cc744e163355, type: 3}
+    - target: {fileID: 7412555605099382647, guid: d0a1c85b873d7df4fae933695263e566, type: 3}
+      propertyPath: cycleSound2
+      value: 
+      objectReference: {fileID: 8300000, guid: bff6fa9550cb95e4caa0aa4df795ab99, type: 3}
     - target: {fileID: 7412555605099382647, guid: d0a1c85b873d7df4fae933695263e566, type: 3}
       propertyPath: options.Array.data[1].label
       value: Gothic Carpet
