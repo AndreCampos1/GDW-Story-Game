@@ -1863,19 +1863,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::OpeningSequence
   clients:
   - displayName: King
-    sprite: {fileID: 21300000, guid: 7e9ad484dab83044e90636ad84d6f073, type: 3}
+    sprite: {fileID: -4821530343430527414, guid: 7d8e245a83fe72c4085b3b7aa118a339, type: 3}
     dialogue: {fileID: 11400000, guid: ca3317e9e840d6248bcf9b2b4936495c, type: 2}
     castle: {fileID: 11400000, guid: 9e54444edcea7484a989b3efbbea2f17, type: 2}
     sceneName: KingCastle
     pickCard: {fileID: 661757171}
   - displayName: Vampire
-    sprite: {fileID: 21300000, guid: 35c47d4c77b69014c8fab7d368d0bc35, type: 3}
+    sprite: {fileID: -2904457877120967500, guid: d8be30ce5cf673942a1b7e3d04b7fc01, type: 3}
     dialogue: {fileID: 11400000, guid: 272e092b4ebfd5a4a82ff8d6fb6d79b6, type: 2}
     castle: {fileID: 11400000, guid: 0377c7595517ec4499836650b630e010, type: 2}
     sceneName: VampireCrypt
     pickCard: {fileID: 1209352311}
   - displayName: Alien
-    sprite: {fileID: 21300000, guid: a385226c7ee5e3846a278a71e67a4a6b, type: 3}
+    sprite: {fileID: -2942823943379307754, guid: 5fd59f7c54e6ff943b5dcea1166db1d8, type: 3}
     dialogue: {fileID: 11400000, guid: 2718f133a2530fc4f906bd13ed91a3e6, type: 2}
     castle: {fileID: 11400000, guid: c24fa080be291e54cbb168b170044bf7, type: 2}
     sceneName: AlienShip
